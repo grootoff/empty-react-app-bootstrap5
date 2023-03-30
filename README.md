@@ -5,7 +5,7 @@ This is a basic React application that has been integrated with Bootstrap 5 and 
 To install this application, simply clone the repository and run npm install to install the required dependencies:
 
 ```
-git clone https://github.com/your-username/your-project.git
+git clone [https://github.com/your-username/your-project.git](https://github.com/grootoff/empty-react-app-bootstrap5.git)
 cd your-project
 npm install
 ```
