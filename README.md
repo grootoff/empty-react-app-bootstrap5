@@ -21,6 +21,7 @@ This will start the development server and open the application in your default 
 Bootstrap 5 is included in this application as a dependency. To use Bootstrap 5 components in your application, simply import the required components from the bootstrap module. For example, to use the Bootstrap navbar, you would import it like this:
 
 ```import { Navbar, Nav } from 'bootstrap';```
+
 You can then use the Navbar and Nav components in your JSX code.
 
 ## SCSS
@@ -51,7 +52,8 @@ This will import the styles.scss file and apply the styles to the button element
 ## Building for production
 To build the application for production, run the following command:
 
-## npm run build
+```npm run build```
+
 This will create an optimized build of the application in the build directory. You can then deploy this directory to your server.
 
 ## Conclusion
